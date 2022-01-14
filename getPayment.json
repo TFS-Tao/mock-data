@@ -1,0 +1,6 @@
+{
+	"payment_id": "001",
+	"payment_status": "OK",
+	"price": 1000,
+  "store": "DEMO STORE"
+}
